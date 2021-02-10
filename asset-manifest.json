@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/razor-dashboard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/razor-dashboard/static/js/main.a82b8f44.chunk.js",
+    "main.js.map": "/razor-dashboard/static/js/main.a82b8f44.chunk.js.map",
+    "runtime-main.js": "/razor-dashboard/static/js/runtime-main.3b376acb.js",
+    "runtime-main.js.map": "/razor-dashboard/static/js/runtime-main.3b376acb.js.map",
+    "static/css/2.658248ec.chunk.css": "/razor-dashboard/static/css/2.658248ec.chunk.css",
+    "static/js/2.4bf88dbf.chunk.js": "/razor-dashboard/static/js/2.4bf88dbf.chunk.js",
+    "static/js/2.4bf88dbf.chunk.js.map": "/razor-dashboard/static/js/2.4bf88dbf.chunk.js.map",
+    "static/js/3.794b76b6.chunk.js": "/razor-dashboard/static/js/3.794b76b6.chunk.js",
+    "static/js/3.794b76b6.chunk.js.map": "/razor-dashboard/static/js/3.794b76b6.chunk.js.map",
+    "index.html": "/razor-dashboard/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/razor-dashboard/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/razor-dashboard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4bf88dbf.chunk.js.LICENSE.txt": "/razor-dashboard/static/js/2.4bf88dbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b376acb.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.4bf88dbf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a82b8f44.chunk.js"
+  ]
+}
